@@ -28,7 +28,6 @@ def find_greater_pair(src)
     end
     new_array.push(x)
   end
-  row_index += 1 
   new_array
 end
 
